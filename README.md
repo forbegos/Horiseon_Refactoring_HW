@@ -1,5 +1,13 @@
 # 01 HTML, CSS, and Git: Code Refactor
 
-## Your Task
+## Project Description
+
+...
+
+## Website Link:
+
+https://forbegos.github.io/Horiseon_Refactoring_HW/
+
+## Website Screenshot:
 
 ![](./assets/images/Screen-Shot.jpg)
